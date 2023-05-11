@@ -1,5 +1,7 @@
 # collabor-action
 
+![logo](logo.png)
+
 ## Project Overview 
 As it currently stands, cross-sector partnerships between hospitals & community based organizations are under-performing & disoriented, leading to disparities in community-based health outreach. Additionally, workforce shortages are a top challenge for health care systems to reach underserved communities and make community-based care more accessible. Our objective with **collabor-action** was to create the infrastructure for an online platform that streamlines communication betweeen health care systems and CBOs, serving as a single access point for these organizations to discover, connect and form meaningful partnerships.
 
