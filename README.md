@@ -39,7 +39,7 @@ ___
 If you’re a future iSchool Capstone team that is interested in continuing this project, **please reach out** to Anas Azeemi via email at aazeemi@uw.edu.
 
 ### Where to Start
-We recommend that you do more user research with healthcare systems & CBOs to ensure the platform is meeting the stakeholders needs. This research would also be useful in priority setting the development of features. As a starting point, we believe developing the following features would improve the platform:
+We recommend that you do more user research with healthcare systems & CBOs to ensure the platform is meeting the stakeholders needs. This research would also be useful in priority setting the development of features. As a starting point, we believe developing the following features would help improve the platform:
 
 - Survey to assess the capabilities, strengths, weaknesses of CBOs & healthcare systems 
 - Proximity map of CBOs & healthcare systems 
