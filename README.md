@@ -14,7 +14,7 @@ We developed the following features to support this mission:
 - **Message Form/Inbox** 
     - Users will be able to send and receive collaboration request forms to promote clear communication and planning between health care systems and CBOs
 
-In doing so, we hope to facilitate clear communication and planning between these organizations in pursuit of minimizing the time spent finding relevant partnerships and improving community health outreach.
+In doing so, we hope to facilitate clear communication and planning between these organizations to optimize the speed and outreach of health care services. 
 
 ___
 
@@ -36,7 +36,10 @@ ___
 ___
 
 ## Future iSchool Capstone Team
-If you’re a future iSchool Capstone team that is interested in continuing this project, we recommend that you do more user research with healthcare systems & CBOs to ensure the platform is meeting the stakeholders needs. This research would also be useful in priority setting the development of features. As a starting point, we believe developing the following features would improve the platform:
+If you’re a future iSchool Capstone team that is interested in continuing this project, **please reach out** to Anas Azeemi via email at aazeemi@uw.edu.
+
+### Where to Start
+We recommend that you do more user research with healthcare systems & CBOs to ensure the platform is meeting the stakeholders needs. This research would also be useful in priority setting the development of features. As a starting point, we believe developing the following features would improve the platform:
 
 - Survey to assess the capabilities, strengths, weaknesses of CBOs & healthcare systems 
 - Proximity map of CBOs & healthcare systems 
