@@ -16,7 +16,7 @@ We developed the following features to support this mission:
 
 In doing so, we hope to facilitate clear communication and planning between these organizations to optimize the speed and outreach of health care services. 
 
-__You can visit our website here:__ [collabor-action](https://collabor-action.azurewebsites.net/)
+__You can visit our website here:__ [https://collabor-action.azurewebsites.net/](https://collabor-action.azurewebsites.net/)
 
 ___
 
